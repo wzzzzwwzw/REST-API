@@ -38,7 +38,8 @@
         "symfony/runtime": "*",
         "symfony/security-bundle": "*",
         "symfony/yaml": "*",
-        "willdurand/hateoas-bundle": "^2.5"
+        "willdurand/hateoas-bundle": "^2.5",
+        "zircote/swagger-php": "^4.5"
     },
     "require-dev": {
         "fakerphp/faker": "^1.20",
